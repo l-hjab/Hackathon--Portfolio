@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# Hackathon Portfolio Website
 
 This is a responsive **Portfolio Website** built with **HTML & CSS only**, showcasing personal projects, skills, and a working contact form using the **Formspree API**.
 
@@ -19,6 +19,7 @@ Make sure you have Visual Studio Code installed.
 
 4. Set Up Formspree Contact Form
 Sign up at https://formspree.io
+
 Create a new form
 Copy your unique Formspree endpoint URL
 Replace the action attribute in contact.html with your Formspree endpoint:
